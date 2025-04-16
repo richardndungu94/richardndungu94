@@ -1,5 +1,7 @@
-# Hello, I'm Richard Ndung'u
+# I'm Richard Ndung'u
 <a href="https://www.linkedin.com/in/richard-ndungu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https:/medium.com/@richardndungu/"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
 
 
 I am a cyber security enthusiast with a background in Telecommunication Engineering. I share cyber security insights.
@@ -48,6 +50,11 @@ My journey in engineering has led me to develop a passion for cybersecurity, and
 <img src="https://img.shields.io/badge/-Netcad%20Introduction%20to%20Networking-006400?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Netcad%20Ethical%20Hacking-006400?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Netcad%20Introduction%20to%20Cyber%20Security-006400?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/-CyberMillion%20Immersive%20Labs-0A0F24?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+
 
 </div>
 
