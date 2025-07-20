@@ -9,7 +9,7 @@ I am a cyber security enthusiast with a background in Telecommunication Engineer
 ## Objective
 
 
-My journey in engineering has led me to develop a passion for cybersecurit.As a a Cybersecurity Engineer i'm currently working in Devsecops to ensure secure software develoment during the software Development Lifecycle (SDLC)
+My journey in engineering has led me to develop a passion for cybersecurit.As Cybersecurity Engineer i'm currently working in Devsecops to ensure secure software develoment during the software Development Lifecycle (SDLC)
 
 I also work on projects in SOC, Threat Intell, GRC,Data protection
 
