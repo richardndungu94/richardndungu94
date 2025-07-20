@@ -64,3 +64,8 @@ I also work on projects in SOC, Threat Intell, GRC,Data protection
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Vulnerability assesment
+- Threat intell
+- Traffic analysis
+- Data project
+- IR project
