@@ -9,7 +9,10 @@ I am a cyber security enthusiast with a background in Telecommunication Engineer
 ## Objective
 
 
-My journey in engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in engineering has led me to develop a passion for cybersecurit.As a a Cybersecurity Engineer i'm currently working in Devsecops to ensure secure software develoment during the software Development Lifecycle (SDLC)
+
+I also work on projects in SOC, Threat Intell, GRC,Data protection
+
 
 ## Skills
 
