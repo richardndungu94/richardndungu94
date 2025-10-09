@@ -46,6 +46,55 @@ I also work on projects in SOC, Threat Intell, GRC,Data protection
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+
+### Devsecops%Appsec
+
+
+#### 🖥️ Programming & Frameworks
+<img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
+
+#### 🔐 Security & DevSecOps Tools
+<img src="https://img.shields.io/badge/-Semgrep-20B2AA?&style=for-the-badge&logo=semgrep&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snyk-4C4A73?&style=for-the-badge&logo=snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Trivy-1904DA?&style=for-the-badge&logo=aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitLeaks-C71A36?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Threat%20Dragon-2C2255?&style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burp&logoColor=white" />
+
+#### ⚙️ CI/CD & Automation
+<img src="https://img.shields.io/badge/-GitLab%20CI/CD-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+
+#### ☁️ Cloud & Infrastructure
+<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-ECR-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-ECS-FF9900?&style=for-the-badge&logo=amazon-ecs&logoColor=white" />
+<img src="https://img.shields.io/badge/-S3-569A31?&style=for-the-badge&logo=amazon-s3&logoColor=white" />
+<img src="https://img.shields.io/badge/-CloudWatch-232F3E?&style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+
+#### 🧠 Development & Monitoring
+<img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+#### 🧩 Supporting Tools & Libraries
+<img src="https://img.shields.io/badge/-JWT-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zod-306998?&style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-NPM-CB3837?&style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?&style=for-the-badge&logo=yarn&logoColor=white" />
+
+---
+
+
+
 ## Certifications
 
 <div>
