@@ -18,8 +18,8 @@ I also work on projects in SOC, Threat Intell, GRC,Data protection
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Devsecops                                      | <a >Detection Lab</a>|
-| Appsec                                          | <a >Detection Lab</a>|
+| Devsecops                                      | <a >Devsecops Project</a>|
+| Appsec                                          | <a >Devsecops project</a>|
 | Security Automation                           | Devsecops Project|
 | Threat Intell                                | Devsecops project|
 | Scripting and Automation for Threat Mitigation | Devsecops Project|
@@ -61,8 +61,9 @@ I also work on projects in SOC, Threat Intell, GRC,Data protection
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+Some of the projects i have done on different domains
+- Devsecops
+- SDL Automation Project
 - Vulnerability assesment
 - Threat intell
 - Traffic analysis
