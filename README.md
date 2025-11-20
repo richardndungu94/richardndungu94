@@ -1,11 +1,14 @@
-# Richard Ndung'u — DevSecOps / AppSec Cybersecurity Engineer  
+# Richard Ndung'u — DevSecOps / AppSec Cybersecurity Engineer
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-ndungu/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@richardndungu/about/)
+![Profile Views](https://komarev.com/ghpvc/?username=richardndungu94&style=for-the-badge&color=blue)
 
 ---
 
-## About  
-I am a Cybersecurity Engineer specializing in **DevSecOps, Application Security, Cloud Security, SOC Operations, Threat Intelligence, and Infrastructure as Code Security**.  
+## About Me
+
+I am a Cybersecurity Engineer specializing in **DevSecOps, Application Security, Cloud Security, SOC Operations, Threat Intelligence, and Infrastructure as Code Security**.
 
 With a background in **Telecommunication Engineering**, I now focus on securing applications, CI/CD pipelines, and cloud environments (AWS & Azure), while building automated security controls across the **SDLC**.
 
@@ -13,48 +16,66 @@ I enjoy uncovering vulnerabilities, automating detections, and creating secure-b
 
 ---
 
-## 🎯 Objective  
+## Objective
+
 To design, build, and automate secure systems by integrating security into every stage of the development lifecycle.
 
-I work across:  
-- **DevSecOps & AppSec**  
-- **SOC & Incident Response**  
-- **Threat Intelligence & Automation**  
-- **Cloud Security (AWS & Azure)**  
+I work across:
+- **DevSecOps & AppSec**
+- **SOC & Incident Response**
+- **Threat Intelligence & Automation**
+- **Cloud Security (AWS & Azure)**
 - **Secure IaC & Terraform**
 
 ---
 
-## 🛠️ Skills Overview
+## GitHub Statistics
 
-| Skill | Description |
-|-------|-------------|
-| DevSecOps | Secure CI/CD pipelines, automated security tools |
-| AppSec | SAST, DAST, SCA, threat modeling, code security |
-| Cloud Security | AWS & Azure IAM, monitoring, infrastructure hardening |
-| Security Automation | Python/Node automation, detection engineering |
-| Threat Intelligence | IOC analysis, attacker behavior research |
-| SOC & IR | Log analysis, threat hunting, detection techniques |
-| IaC Security | Terraform secure deployments, cloud security posture |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardndungu94&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardndungu94&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardndungu94&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richardndungu94&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</p>
 
 ---
 
-# ⚙️ Tools & Technologies  
+## Skills Overview
 
-## 🔌 Network Security
+| Skill | Description |
+|-------|-------------|
+| **DevSecOps** | Secure CI/CD pipelines, automated security tools |
+| **AppSec** | SAST, DAST, SCA, threat modeling, code security |
+| **Cloud Security** | AWS & Azure IAM, monitoring, infrastructure hardening |
+| **Security Automation** | Python/Node automation, detection engineering |
+| **Threat Intelligence** | IOC analysis, attacker behavior research |
+| **SOC & IR** | Log analysis, threat hunting, detection techniques |
+| **IaC Security** | Terraform secure deployments, cloud security posture |
+
+---
+
+## Tools & Technologies
+
+### Network Security
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-## 🖥️ Endpoint Security & DFIR
+### Endpoint Security & DFIR
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-## 📊 SIEM Platforms
+### SIEM Platforms
 <div>
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -63,9 +84,9 @@ I work across:
 
 ---
 
-# 🔒 DevSecOps & AppSec
+## DevSecOps & AppSec
 
-## 🧑‍💻 Programming & Frameworks
+### Programming & Frameworks
 <div>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -75,7 +96,7 @@ I work across:
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## 🛡️ Security Tools
+### Security Tools
 <div>
 <img src="https://img.shields.io/badge/-Semgrep-20B2AA?style=for-the-badge&logo=semgrep&logoColor=white" />
 <img src="https://img.shields.io/badge/-Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
@@ -86,14 +107,14 @@ I work across:
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burp&logoColor=white" />
 </div>
 
-## ⚙️ CI/CD & Containers
+### CI/CD & Containers
 <div>
 <img src="https://img.shields.io/badge/-GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 <div>
 <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -103,7 +124,7 @@ I work across:
 <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-## 🧰 Supporting Tools
+### Supporting Tools
 <div>
 <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zod-306998?style=for-the-badge&logo=zod&logoColor=white" />
@@ -117,7 +138,8 @@ I work across:
 
 ---
 
-# 📜 Certifications  
+## Certifications
+
 <div>
 <img src="https://img.shields.io/badge/-Netcad%20Introduction%20to%20Networking-006400?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Netcad%20Ethical%20Hacking-006400?style=for-the-badge&logoColor=white" />
@@ -129,24 +151,42 @@ I work across:
 
 ---
 
-# 📁 Projects  
+## Featured Projects
 
-### 🔹 DevSecOps & Cloud Security  
-- **DevSecOps Pipeline**  
-  https://github.com/richardndungu94/Devsecops.git  
+### DevSecOps & Cloud Security
 
-- **Terraform — S3 Static Website**  
-  https://github.com/richardndungu94/Terraform-S3-static-website.git  
+**DevSecOps Pipeline**  
+A comprehensive CI/CD security pipeline integrating automated security scanning tools.  
+[View Project →](https://github.com/richardndungu94/Devsecops.git)
 
-- **Terraform — AWS Webserver**  
-  https://github.com/richardndungu94/Terraform-aws-webserver.git  
+**Terraform — S3 Static Website**  
+Infrastructure as Code for deploying secure static websites on AWS S3.  
+[View Project →](https://github.com/richardndungu94/Terraform-S3-static-website.git)
 
-- **Terraform — AWS IAM Multi-User Management**  
-  https://github.com/richardndungu94/AWS-IAM-Multi-User-Management-with-Terraform.git  
+**Terraform — AWS Webserver**  
+Automated AWS webserver deployment with security best practices.  
+[View Project →](https://github.com/richardndungu94/Terraform-aws-webserver.git)
 
-### 🔹 Application Security  
-- **Intentionally Vulnerable Auth API**  
-  https://github.com/richardndungu94/vulnerable-auth-API.git  
+**Terraform — AWS IAM Multi-User Management**  
+Scalable IAM user and group management using Terraform modules.  
+[View Project →](https://github.com/richardndungu94/AWS-IAM-Multi-User-Management-with-Terraform.git)
+
+### Application Security
+
+**Intentionally Vulnerable Auth API**  
+Educational project demonstrating common authentication vulnerabilities and secure coding practices.  
+[View Project →](https://github.com/richardndungu94/vulnerable-auth-API.git)
 
 ---
 
+## Connect With Me
+
+- **LinkedIn**: [Richard Ndung'u](https://www.linkedin.com/in/richard-ndungu/)
+- **Medium**: [@richardndungu](https://www.medium.com/@richardndungu/about/)
+- **Email**: [Contact me](mailto:richardndungu94@example.com)
+
+---
+
+<p align="center">
+  <i>Building secure systems, one commit at a time</i>
+</p>
